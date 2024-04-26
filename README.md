@@ -48,7 +48,6 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MAboelgoud&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
-<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MAboelgoud&show_icons=true&locale=en&layout=compact&theme=radical" alt="GitHub Status" />
 
 <br>
 
