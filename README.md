@@ -12,7 +12,7 @@
 
 - 🏢 Software Engineer.
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
-- 🤖 My graduation project harness the potential of Generative Artificial Intelligence (AI), Retrieval Augmented Generation, and (R-LLMs) to revolutionize the educational experience for both students and lecturers. through the creation of an interactive 3D virtual teacher assistant  chatbot. 
+- 🤖 My graduation project harness the potential of Generative Artificial Intelligence (AI) and Retrieval Augmented Generation to revolutionize the educational experience for both students and lecturers. through the creation of an interactive 3D virtual teacher assistant  chatbot. 
 
 
 ## <img src="https://media.giphy.com/media/gIkM6hiJfvSIIJCnKy/giphy.gif" width="5%"> Contact me
