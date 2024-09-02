@@ -45,7 +45,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MAboelgoud&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=M-Aboelgoud&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
 
 <br>
